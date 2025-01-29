@@ -1,4 +1,5 @@
 ## About Me
+
 - 🌱 I’m currently learning at Code Louisville.
 - 📫 How to reach me:
 
@@ -8,3 +9,4 @@
 
 
 </p>
+
